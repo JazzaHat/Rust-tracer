@@ -1,0 +1,9 @@
+[package]
+name = "hdr-ray-tracer"
+version = "0.1.0"
+
+edition = "2018"
+[dependencies]
+image = "0.23.0"
+minifb = "0.15.3"
+nalgebra = "0.18"
